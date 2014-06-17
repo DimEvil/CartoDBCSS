@@ -5,7 +5,8 @@
 /** intensity visualization */
 
 
-#saltabel2 {
+#saltabel2 
+{
   first/marker-fill: #5CA2D1;
   first/marker-opacity: 0.01;
   first/marker-width: 150;
